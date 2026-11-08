@@ -6,6 +6,48 @@
 	<integer>12</integer>
 	<key>logs</key>
 	<dict>
+		<key>19814BCC-DC24-46BF-AE11-DDE1DEBD07DD</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>19814BCC-DC24-46BF-AE11-DDE1DEBD07DD.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>OpenLaunch X project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>OpenLaunch X</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project OpenLaunch X with scheme OpenLaunch X and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>815811095.489586</real>
+			<key>timeStoppedRecording</key>
+			<real>815811101.03363204</real>
+			<key>title</key>
+			<string>Building project OpenLaunch X with scheme OpenLaunch X and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>19814BCC-DC24-46BF-AE11-DDE1DEBD07DD</string>
+		</dict>
 		<key>79DC3DF5-99E8-4E3A-946D-E36F2D11FC9F</key>
 		<dict>
 			<key>className</key>

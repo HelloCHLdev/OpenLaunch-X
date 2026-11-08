@@ -140,10 +140,6 @@ extension WindowChrome {
                 Self.fillScreenArea(of: window)
             }
         }
-
-        #if DEBUG
-        DebugCapture.run(window: window)
-        #endif
     }
 
     /// 隐藏窗口左上角的红、黄、绿按钮
