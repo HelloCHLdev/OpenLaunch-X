@@ -1,0 +1,59 @@
+{
+  "" : {
+    "diagnostics" : "/Users/lichenghao/OpenLaunch X/.build/Build/Intermediates.noindex/OpenLaunch X.build/Debug/OpenLaunch X.build/Objects-normal/arm64/OpenLaunch X-primary.dia",
+    "emit-module-dependencies" : "/Users/lichenghao/OpenLaunch X/.build/Build/Intermediates.noindex/OpenLaunch X.build/Debug/OpenLaunch X.build/Objects-normal/arm64/OpenLaunch X-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/lichenghao/OpenLaunch X/.build/Build/Intermediates.noindex/OpenLaunch X.build/Debug/OpenLaunch X.build/Objects-normal/arm64/OpenLaunch X-primary-emit-module.dia",
+    "pch" : "/Users/lichenghao/OpenLaunch X/.build/Build/Intermediates.noindex/OpenLaunch X.build/Debug/OpenLaunch X.build/Objects-normal/arm64/OpenLaunch X-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/lichenghao/OpenLaunch X/.build/Build/Intermediates.noindex/OpenLaunch X.build/Debug/OpenLaunch X.build/Objects-normal/arm64/OpenLaunch X-primary.swiftdeps"
+  },
+  "/Users/lichenghao/OpenLaunch X/.build/Build/Intermediates.noindex/OpenLaunch X.build/Debug/OpenLaunch X.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/lichenghao/OpenLaunch X/.build/Build/Intermediates.noindex/OpenLaunch X.build/Debug/OpenLaunch X.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/lichenghao/OpenLaunch X/.build/Build/Intermediates.noindex/OpenLaunch X.build/Debug/OpenLaunch X.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/lichenghao/OpenLaunch X/.build/Build/Intermediates.noindex/OpenLaunch X.build/Debug/OpenLaunch X.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/OpenLaunch X.build/Debug/OpenLaunch X.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/lichenghao/OpenLaunch X/.build/Build/Intermediates.noindex/OpenLaunch X.build/Debug/OpenLaunch X.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/lichenghao/OpenLaunch X/.build/Build/Intermediates.noindex/OpenLaunch X.build/Debug/OpenLaunch X.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/lichenghao/OpenLaunch X/.build/Build/Intermediates.noindex/OpenLaunch X.build/Debug/OpenLaunch X.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/lichenghao/OpenLaunch X/.build/Build/Intermediates.noindex/OpenLaunch X.build/Debug/OpenLaunch X.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/lichenghao/OpenLaunch X/OpenLaunch X/ContentView.swift" : {
+    "const-values" : "/Users/lichenghao/OpenLaunch X/.build/Build/Intermediates.noindex/OpenLaunch X.build/Debug/OpenLaunch X.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/lichenghao/OpenLaunch X/.build/Build/Intermediates.noindex/OpenLaunch X.build/Debug/OpenLaunch X.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/lichenghao/OpenLaunch X/.build/Build/Intermediates.noindex/OpenLaunch X.build/Debug/OpenLaunch X.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/OpenLaunch X.build/Debug/OpenLaunch X.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/lichenghao/OpenLaunch X/.build/Build/Intermediates.noindex/OpenLaunch X.build/Debug/OpenLaunch X.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/lichenghao/OpenLaunch X/.build/Build/Intermediates.noindex/OpenLaunch X.build/Debug/OpenLaunch X.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/lichenghao/OpenLaunch X/.build/Build/Intermediates.noindex/OpenLaunch X.build/Debug/OpenLaunch X.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/lichenghao/OpenLaunch X/.build/Build/Intermediates.noindex/OpenLaunch X.build/Debug/OpenLaunch X.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/lichenghao/OpenLaunch X/OpenLaunch X/DebugCapture.swift" : {
+    "const-values" : "/Users/lichenghao/OpenLaunch X/.build/Build/Intermediates.noindex/OpenLaunch X.build/Debug/OpenLaunch X.build/Objects-normal/arm64/DebugCapture.swiftconstvalues",
+    "dependencies" : "/Users/lichenghao/OpenLaunch X/.build/Build/Intermediates.noindex/OpenLaunch X.build/Debug/OpenLaunch X.build/Objects-normal/arm64/DebugCapture.d",
+    "diagnostics" : "/Users/lichenghao/OpenLaunch X/.build/Build/Intermediates.noindex/OpenLaunch X.build/Debug/OpenLaunch X.build/Objects-normal/arm64/DebugCapture.dia",
+    "index-unit-output-path" : "/OpenLaunch X.build/Debug/OpenLaunch X.build/Objects-normal/arm64/DebugCapture.o",
+    "llvm-bc" : "/Users/lichenghao/OpenLaunch X/.build/Build/Intermediates.noindex/OpenLaunch X.build/Debug/OpenLaunch X.build/Objects-normal/arm64/DebugCapture.bc",
+    "object" : "/Users/lichenghao/OpenLaunch X/.build/Build/Intermediates.noindex/OpenLaunch X.build/Debug/OpenLaunch X.build/Objects-normal/arm64/DebugCapture.o",
+    "swift-dependencies" : "/Users/lichenghao/OpenLaunch X/.build/Build/Intermediates.noindex/OpenLaunch X.build/Debug/OpenLaunch X.build/Objects-normal/arm64/DebugCapture.swiftdeps",
+    "swiftmodule" : "/Users/lichenghao/OpenLaunch X/.build/Build/Intermediates.noindex/OpenLaunch X.build/Debug/OpenLaunch X.build/Objects-normal/arm64/DebugCapture~partial.swiftmodule"
+  },
+  "/Users/lichenghao/OpenLaunch X/OpenLaunch X/OpenLaunch_XApp.swift" : {
+    "const-values" : "/Users/lichenghao/OpenLaunch X/.build/Build/Intermediates.noindex/OpenLaunch X.build/Debug/OpenLaunch X.build/Objects-normal/arm64/OpenLaunch_XApp.swiftconstvalues",
+    "dependencies" : "/Users/lichenghao/OpenLaunch X/.build/Build/Intermediates.noindex/OpenLaunch X.build/Debug/OpenLaunch X.build/Objects-normal/arm64/OpenLaunch_XApp.d",
+    "diagnostics" : "/Users/lichenghao/OpenLaunch X/.build/Build/Intermediates.noindex/OpenLaunch X.build/Debug/OpenLaunch X.build/Objects-normal/arm64/OpenLaunch_XApp.dia",
+    "index-unit-output-path" : "/OpenLaunch X.build/Debug/OpenLaunch X.build/Objects-normal/arm64/OpenLaunch_XApp.o",
+    "llvm-bc" : "/Users/lichenghao/OpenLaunch X/.build/Build/Intermediates.noindex/OpenLaunch X.build/Debug/OpenLaunch X.build/Objects-normal/arm64/OpenLaunch_XApp.bc",
+    "object" : "/Users/lichenghao/OpenLaunch X/.build/Build/Intermediates.noindex/OpenLaunch X.build/Debug/OpenLaunch X.build/Objects-normal/arm64/OpenLaunch_XApp.o",
+    "swift-dependencies" : "/Users/lichenghao/OpenLaunch X/.build/Build/Intermediates.noindex/OpenLaunch X.build/Debug/OpenLaunch X.build/Objects-normal/arm64/OpenLaunch_XApp.swiftdeps",
+    "swiftmodule" : "/Users/lichenghao/OpenLaunch X/.build/Build/Intermediates.noindex/OpenLaunch X.build/Debug/OpenLaunch X.build/Objects-normal/arm64/OpenLaunch_XApp~partial.swiftmodule"
+  },
+  "/Users/lichenghao/OpenLaunch X/OpenLaunch X/WindowChrome.swift" : {
+    "const-values" : "/Users/lichenghao/OpenLaunch X/.build/Build/Intermediates.noindex/OpenLaunch X.build/Debug/OpenLaunch X.build/Objects-normal/arm64/WindowChrome.swiftconstvalues",
+    "dependencies" : "/Users/lichenghao/OpenLaunch X/.build/Build/Intermediates.noindex/OpenLaunch X.build/Debug/OpenLaunch X.build/Objects-normal/arm64/WindowChrome.d",
+    "diagnostics" : "/Users/lichenghao/OpenLaunch X/.build/Build/Intermediates.noindex/OpenLaunch X.build/Debug/OpenLaunch X.build/Objects-normal/arm64/WindowChrome.dia",
+    "index-unit-output-path" : "/OpenLaunch X.build/Debug/OpenLaunch X.build/Objects-normal/arm64/WindowChrome.o",
+    "llvm-bc" : "/Users/lichenghao/OpenLaunch X/.build/Build/Intermediates.noindex/OpenLaunch X.build/Debug/OpenLaunch X.build/Objects-normal/arm64/WindowChrome.bc",
+    "object" : "/Users/lichenghao/OpenLaunch X/.build/Build/Intermediates.noindex/OpenLaunch X.build/Debug/OpenLaunch X.build/Objects-normal/arm64/WindowChrome.o",
+    "swift-dependencies" : "/Users/lichenghao/OpenLaunch X/.build/Build/Intermediates.noindex/OpenLaunch X.build/Debug/OpenLaunch X.build/Objects-normal/arm64/WindowChrome.swiftdeps",
+    "swiftmodule" : "/Users/lichenghao/OpenLaunch X/.build/Build/Intermediates.noindex/OpenLaunch X.build/Debug/OpenLaunch X.build/Objects-normal/arm64/WindowChrome~partial.swiftmodule"
+  }
+}
